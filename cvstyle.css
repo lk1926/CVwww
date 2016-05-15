@@ -29,3 +29,36 @@ body{
     font-size: 70px;
     text-align: left;
 }
+.kafelek1{
+    margin: 10px;
+    width: 230px;
+    height: 142px;
+    background-color: #3095d3;
+    float: left;
+}
+.kafelek2{
+    margin: 10px;
+    width: 230px;
+    height: 142px;
+    background-color: #666666;
+    float: left;
+}
+.kafelek3{
+    margin: 10px;
+    width: 230px;
+    height: 142px;
+    background-color: #93c748;
+    float: left;
+}
+.kafelek4{
+    margin: 10px;
+    width: 480px;
+    height: 142px;
+    background-color: #ee5a32;
+}
+.kafelek5{
+    margin: 10px;
+    width: 480px;
+    height: 304px;
+    background-color: #666666;
+}
