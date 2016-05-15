@@ -89,27 +89,60 @@ body{
     margin: 10px;
     width: 105px;
     height: 142px;
-    background-color: #b94348;
+    background:#9e9e9e;
     float: left;
+}
+.yt:hover{
+    transition: all .2s ease-in-out;
+    -webkit-transition:all .2s ease-in-out;
+    -moz-transition:all .2s ease-in-out;
+    -o-transition:all .2s ease-in-out;
+    border-radius:50%;
+    background:#b94348;
 }
 .fb{
     margin: 10px;
     width: 105px;
     height: 142px;
-    background-color: #4668b3;
+    background-color: #9e9e9e;
     float: left;
+}
+.fb:hover{
+    transition: all .2s ease-in-out;
+    -webkit-transition:all .2s ease-in-out;
+    -moz-transition:all .2s ease-in-out;
+    -o-transition:all .2s ease-in-out;
+    border-radius:50%;
+    color:#fff;
+    background:#3b5998;
 }
 .gplus{
     margin: 10px;
     width: 105px;
     height: 142px;
-    background-color: #d95333;
+    background-color: #9e9e9e;
     float: left;
+}
+.gplus:hover{
+    transition: all .2s ease-in-out;
+    -webkit-transition:all .2s ease-in-out;
+    -moz-transition:all .2s ease-in-out;
+    -o-transition:all .2s ease-in-out;
+    border-radius:50%;
+    background: #d34836;
 }
 .tw{
     margin: 10px;
     width: 105px;
     height: 142px;
-    background-color: #3095d3;
+    background-color: #9e9e9e;
     float: left;
+}
+.tw:hover{
+    transition: all .2s ease-in-out;
+    -webkit-transition:all .2s ease-in-out;
+    -moz-transition:all .2s ease-in-out;
+    -o-transition:all .2s ease-in-out;
+    border-radius:50%;
+    background:#00aced;
 }
