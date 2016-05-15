@@ -35,6 +35,10 @@ body{
     height: 142px;
     background-color: #3095d3;
     float: left;
+    text-align: center;
+}
+.kafelek1:hover{
+    background-color: #2084c2;
 }
 .kafelek2{
     margin: 10px;
@@ -42,6 +46,10 @@ body{
     height: 142px;
     background-color: #666666;
     float: left;
+    text-align: center;
+}
+.kafelek2:hover{
+    background-color: #555555;
 }
 .kafelek3{
     margin: 10px;
@@ -49,18 +57,33 @@ body{
     height: 142px;
     background-color: #93c748;
     float: left;
+    text-align: center;
+}
+.kafelek3:hover{
+    background-color: #82b637;
 }
 .kafelek4{
     margin: 10px;
-    width: 480px;
-    height: 142px;
+    width: 420px;
+    height: 82px;
     background-color: #ee5a32;
+    text-align: center;
+    font-size: 26px;
+    padding: 30px;
+    line-height: 150%;
+}
+.kafelek4:hover{
+    background-color: #dd4a21;
 }
 .kafelek5{
     margin: 10px;
     width: 480px;
     height: 304px;
     background-color: #666666;
+    text-align: center;
+}
+.kafelek5:hover{
+    background-color: #555555;
 }
 .yt{
     margin: 10px;
