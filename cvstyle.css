@@ -62,3 +62,31 @@ body{
     height: 304px;
     background-color: #666666;
 }
+.yt{
+    margin: 10px;
+    width: 105px;
+    height: 142px;
+    background-color: #b94348;
+    float: left;
+}
+.fb{
+    margin: 10px;
+    width: 105px;
+    height: 142px;
+    background-color: #4668b3;
+    float: left;
+}
+.gplus{
+    margin: 10px;
+    width: 105px;
+    height: 142px;
+    background-color: #d95333;
+    float: left;
+}
+.tw{
+    margin: 10px;
+    width: 105px;
+    height: 142px;
+    background-color: #3095d3;
+    float: left;
+}
