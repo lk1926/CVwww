@@ -145,3 +145,17 @@ body{
     border-radius:50%;
     background:#00aced;
 }
+a.link{
+    color: #ffffff;
+    text-decoration: none;
+    display: block;
+    width: 230px;
+    height: 142px;
+}
+a.medialink{
+    color: #ffffff;
+    text-decoration: none;
+    display: block;
+    width: 105px;
+    height: 142px;
+}
